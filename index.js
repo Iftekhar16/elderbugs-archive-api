@@ -19,13 +19,9 @@ const schema = makeExecutableSchema({
   typeDefs, resolvers 
 });
 
-app.use('/graphql', createHandler({
+app.use('/', createHandler({
   schema: schema
 }));
-
-// app.get('/', (req, res) => {
-//   res.send('Hello World!');
-// });
 
 app.listen(
   port,

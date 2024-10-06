@@ -14,16 +14,16 @@ const games = [
     "rating": 9.0,
     "platform": ["PC", "PlayStation 4", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/banner-landscape.jpg",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/banner-portrait.jpg",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/banner-square.jpg",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-landscape.jpg",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-portrait.jpg",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-square.jpg",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/frostpunk/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(5).jpeg"
       }
     }
   },
@@ -42,16 +42,16 @@ const games = [
     "rating": 9.5,
     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/banner-landscape.png",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/banner-portrait.jpg",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/banner-square.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/banner-landscape.png",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/banner-portrait.jpg",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/banner-square.png",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hollowknight/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/screenshot%20(5).jpeg"
       }
     }
   },
@@ -70,16 +70,16 @@ const games = [
     "rating": 9.7,
     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "PlayStation 5", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/banner-landscape.png",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/banner-portrait.jpg",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/banner-square.jpg",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-landscape.png",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-portrait.jpg",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-square.jpg",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/hades/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(5).jpeg"
       }
     }
   },
@@ -98,16 +98,16 @@ const games = [
     "rating": 9.0,
     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/banner-landscape.jpg",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/banner-portrait.png",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/banner-square.jpg",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/banner-landscape.jpg",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/banner-portrait.png",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/banner-square.jpg",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/deadcells/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/screenshot%20(5).jpeg"
       }
     }
   },
@@ -126,16 +126,16 @@ const games = [
     "rating": 8.8,
     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/banner-landscape.jpg",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/banner-portrait.jpg",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/banner-square.jpg",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-landscape.jpg",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-portrait.jpg",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-square.jpg",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/blasphemous/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(5).jpeg"
       }
     }
   },
@@ -154,16 +154,16 @@ const games = [
     "rating": 9.7,
     "platform": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/banner-landscape.jpg",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/banner-portrait.png",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/banner-square.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/banner-landscape.jpg",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/banner-portrait.png",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/banner-square.png",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/eldenring/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/screenshot%20(5).jpeg"
       }
     }
   },
@@ -182,16 +182,16 @@ const games = [
     "rating": null,
     "platform": ["PC", "Nintendo Switch"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/banner-landscape.png",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/banner-portrait.jpeg",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/banner-square.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-landscape.png",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-portrait.jpeg",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-square.png",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/silksong/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(5).jpeg"
       }
     }
   },
@@ -210,16 +210,16 @@ const games = [
     "rating": 9.2,
     "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/banner-landscape.jpg",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/banner-portrait.jpeg",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/banner-square.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-landscape.jpg",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-portrait.jpeg",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-square.png",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/inside/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(5).jpeg"
       }
     }
   },
@@ -238,16 +238,16 @@ const games = [
     "rating": 8.5,
     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/banner-landscape.jpg",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/banner-portrait.png",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/banner-square.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/banner-landscape.jpg",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/banner-portrait.png",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/banner-square.png",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/wizardoflegend/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/screenshot%20(5).jpeg"
       }
     }
   },
@@ -266,16 +266,16 @@ const games = [
     "rating": 9,
     "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/logo.png",
-      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/banner-landscape.jpg",
-      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/banner-portrait.jpg",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/banner-square.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/logo.png",
+      "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-landscape.jpg",
+      "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-portrait.jpg",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-square.png",
       "screenshot": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/images/brawlhalla/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(1).jpeg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(2).jpeg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(3).jpeg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(4).jpeg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(5).jpeg"
       }
     }
   }

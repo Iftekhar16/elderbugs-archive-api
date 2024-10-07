@@ -3,8 +3,7 @@ import { createHandler } from 'graphql-http/lib/use/express';
 import { makeExecutableSchema } from '@graphql-tools/schema';
 import db from './_db.js'
 import { typeDefs } from './schema.js';
-
-var cors = require('cors')
+import cors from 'cors';
 
 const app = express();
 app.use(cors())

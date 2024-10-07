@@ -4,7 +4,7 @@ export const typeDefs = `#graphql
     name: String!
     description: String!
     price: Float
-    discount: Int
+    discount: Float
     discountedPrice: Float
     tags: [String!]
     wishlist: Boolean!

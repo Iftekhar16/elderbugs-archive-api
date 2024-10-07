@@ -4,7 +4,10 @@ import { makeExecutableSchema } from '@graphql-tools/schema';
 import db from './_db.js'
 import { typeDefs } from './schema.js';
 
+var cors = require('cors')
+
 const app = express();
+app.use(cors())
 const port = 4000;
 
 const resolvers = {

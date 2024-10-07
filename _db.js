@@ -42,7 +42,7 @@ const games = [
     "rating": 9.5,
     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollowknight/logo.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/logo.png",
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-landscape.png",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-portrait.jpg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-square.png",
@@ -98,7 +98,7 @@ const games = [
     "rating": 9.0,
     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/deadcells/logo.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/logo.png",
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-portrait.png",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-square.jpg",
@@ -154,7 +154,7 @@ const games = [
     "rating": 9.7,
     "platform": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/eldenring/logo.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/logo.png",
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-portrait.png",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-square.png",
@@ -238,7 +238,7 @@ const games = [
     "rating": 8.5,
     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
     "images": {
-      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizardoflegend/logo.png",
+      "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/logo.png",
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-portrait.png",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-square.png",

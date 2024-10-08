@@ -2,7 +2,7 @@ export const typeDefs = `#graphql
   type Game {
     id: ID!
     name: String!
-    description: String!
+    descriptions: description
     price: Float
     discount: Float
     discountedPrice: Float
@@ -20,6 +20,11 @@ export const typeDefs = `#graphql
     platform: [String!]
     reviews: review
     images: images
+  }
+
+  type description {
+    title: String!
+    content: String!
   }
 
   type review {

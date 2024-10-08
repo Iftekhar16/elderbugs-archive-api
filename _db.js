@@ -9,7 +9,7 @@ const games = [
       },
       {
         "title": "The City Must Survive",
-        "content": "Your primary goal in Frostpunk is to ensure the survival of your people in an unforgiving climate. The game challenges players to make decisions that can have lasting impacts on both the city’s infrastructure and the well-being of its inhabitants. Every choice matters, and resources are always scarce."
+        "content": "Your primary goal in Frostpunk is to ensure the survival of your people in an unforgiving climate. The game challenges players to make decisions that can have lasting impacts on both the city's infrastructure and the well-being of its inhabitants. Every choice matters, and resources are always scarce."
       },
       {
         "title": "Laws and Society",
@@ -21,7 +21,7 @@ const games = [
       },
       {
         "title": "Moral Choices",
-        "content": "The game’s core is built around difficult moral dilemmas. Should you force children to work in factories to maintain your society's productivity? Will you sacrifice the health of the few to ensure the survival of the many? Each decision carries significant weight and has consequences that shape your people’s future."
+        "content": "The game's core is built around difficult moral dilemmas. Should you force children to work in factories to maintain your society's productivity? Will you sacrifice the health of the few to ensure the survival of the many? Each decision carries significant weight and has consequences that shape your people's future."
       },
       {
         "title": "Endless Replayability",
@@ -33,10 +33,15 @@ const games = [
     "discountedPrice": 23.99,
     "tags": ["Survival", "City Builder", "Strategy"],
     "isWishlisted": true,
+    "isAddedToCart": false,
+    "wishlistCount": 1896432,
+    "isFeatured": true,
+    "isTrending": false,
+    "isFeatuedFranchise": false,
     "developer": "11 bit studios",
     "publisher": "11 bit studios",
     "releaseDate": "2018-04-24",
-    "rating": 9.0,
+    "rating": 4.5,
     "platform": ["Windows", "Mac"],
     "reviews": [
       {
@@ -83,6 +88,11 @@ const games = [
     "discountedPrice": 14.99,
     "tags": ["Metroidvania", "Indie", "Action"],
     "isWishlisted": true,
+    "isAddedToCart": true,
+    "wishlistCount": 1234876,
+    "isFeatured": true,
+    "isTrending": true,
+    "isFeatuedFranchise": true,
     "description": [
       {
         "title": "Overview",
@@ -115,7 +125,7 @@ const games = [
     ],
     "publisher": "Team Cherry",
     "releaseDate": "2017-02-24",
-    "rating": 9.5,
+    "rating": 4.7,
     "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
       {
@@ -195,11 +205,16 @@ const games = [
     "discount": 0,
     "discountedPrice": 24.99,
     "tags": ["Rogue-like", "Action", "Indie"],
-    "isWishlisted": true,
+    "isWishlisted": false,
+    "isAddedToCart": false,
+    "wishlistCount": 1547892,
+    "isFeatured": true,
+    "isTrending": false,
+    "isFeatuedFranchise": false,
     "developer": "Supergiant Games",
     "publisher": "Supergiant Games",
     "releaseDate": "2020-09-17",
-    "rating": 9.7,
+    "rating": 4.7,
     "platform": ["Windows", "Mac"],
     "reviews": [
       {
@@ -280,10 +295,15 @@ const games = [
     "discountedPrice": 19.99,
     "tags": ["Rogue-lite", "Metroidvania", "Action"],
     "isWishlisted": false,
+    "isAddedToCart": true,
+    "wishlistCount": 2187543,
+    "isFeatured": false,
+    "isTrending": true,
+    "isFeatuedFranchise": true,
     "developer": "Motion Twin",
     "publisher": "Motion Twin",
     "releaseDate": "2018-08-07",
-    "rating": 9.0,
+    "rating": 4.5,
     "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
       {
@@ -363,10 +383,15 @@ const games = [
     "discountedPrice": 18.74,
     "tags": ["Action", "Platformer", "Souls-like"],
     "isWishlisted": false,
+    "isAddedToCart": false,
+    "wishlistCount": 623489,
+    "isFeatured": false,
+    "isTrending": true,
+    "isFeatuedFranchise": false,
     "developer": "The Game Kitchen",
     "publisher": "Team17",
     "releaseDate": "2019-09-10",
-    "rating": 8.8,
+    "rating": 3.9,
     "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
       {
@@ -444,10 +469,15 @@ const games = [
     "discountedPrice": 59.99,
     "tags": ["Action", "RPG", "Open World"],
     "isWishlisted": true,
+    "isAddedToCart": false,
+    "wishlistCount": 2476315,
+    "isFeatured": true,
+    "isTrending": false,
+    "isFeatuedFranchise": false,
     "developer": "FromSoftware",
     "publisher": "Bandai Namco Entertainment",
     "releaseDate": "2022-02-25",
-    "rating": 9.7,
+    "rating": 4.8,
     "platform": ["Windows"],
     "reviews": [
       {
@@ -523,7 +553,12 @@ const games = [
     "discount": null,
     "discountedPrice": null,
     "platform": ["Windows", "Mac", "Linux"],
-    "isWishlisted": true,
+    "isWishlisted": false,
+    "isAddedToCart": true,
+    "wishlistCount": 1498273,
+    "isFeatured": false,
+    "isTrending": true,
+    "isFeatuedFranchise": true,
     "developer": "Team Cherry",
     "publisher": "Team Cherry",
     "releaseDate": null,
@@ -595,10 +630,15 @@ const games = [
     "discountedPrice": 19.99,
     "tags": ["Puzzle", "Platformer", "Indie"],
     "isWishlisted": false,
+    "isAddedToCart": false,
+    "wishlistCount": 1049876,
+    "isFeatured": true,
+    "isTrending": true,
+    "isFeatuedFranchise": false,
     "developer": "Playdead",
     "publisher": "Playdead",
     "releaseDate": "2016-06-29",
-    "rating": 9.2,
+    "rating": 4.1,
     "platform": ["Windows", "Mac"],
     "reviews": [
       {
@@ -671,10 +711,15 @@ const games = [
     "discountedPrice": 11.19,
     "tags": ["Action", "Indie", "RPG"],
     "isWishlisted": false,
+    "isAddedToCart": false,
+    "wishlistCount": 534162,
+    "isFeatured": true,
+    "isTrending": true,
+    "isFeatuedFranchise": true,
     "developer": "Contingent99",
     "publisher": "Humble Games",
     "releaseDate": "2018-05-15",
-    "rating": 8.5,
+    "rating": 3.7,
     "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
       {
@@ -742,10 +787,15 @@ const games = [
     "discountedPrice": 0,
     "tags": ["Free to Play", "Fighting", "Multiplayer", "2D Fighter"],
     "isWishlisted": false,
+    "isAddedToCart": false,
+    "wishlistCount": 2013987,
+    "isFeatured": false,
+    "isTrending": false,
+    "isFeatuedFranchise": false,
     "developer": "Blue Mammoth Games",
     "publisher": "Ubisoft",
     "releaseDate": "2017-10-17",
-    "rating": 9,
+    "rating": 4.5,
     "platform": ["Windows", "Mac"],
     "reviews": [
       {

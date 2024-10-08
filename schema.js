@@ -7,13 +7,25 @@ export const typeDefs = `#graphql
     discount: Float
     discountedPrice: Float
     tags: [String!]
-    wishlist: Boolean!
+    isWishlisted: Boolean!
+    isAddedToCart: Boolean!
+    wishlistCount: Int!
+    isFeatured: Boolean!
+    isTrending: Boolean!
+    isFeaturedFranchise: Boolean!
     developer: String!
     publisher: String
     releaseDate: String
     rating: Float
     platform: [String!]
+    reviews: review
     images: images
+  }
+
+  type review {
+    reviewerName: String!
+    reviewDescription: String!
+    reviewRating: Float!
   }
 
   type images {

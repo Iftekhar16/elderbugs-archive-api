@@ -38,7 +38,7 @@ export const typeDefs = `#graphql
     bannerLandscape: String
     bannerPortrait: String
     bannerSquare: String
-    screenshot: screenshot
+    screenshots: screenshot
   }
 
   type screenshot {

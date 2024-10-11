@@ -40,7 +40,7 @@ const games = [
     "isFeatuedFranchise": false,
     "developer": "11 bit studios",
     "publisher": "11 bit studios",
-    "releaseDate": "2018-04-24",
+    "releaseDate": "24-04-2018",
     "rating": 4.5,
     "platform": ["Windows", "Mac"],
     "reviews": [
@@ -124,7 +124,7 @@ const games = [
       }
     ],
     "publisher": "Team Cherry",
-    "releaseDate": "2017-02-24",
+    "releaseDate": "24-02-2017",
     "rating": 4.7,
     "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
@@ -213,7 +213,7 @@ const games = [
     "isFeatuedFranchise": false,
     "developer": "Supergiant Games",
     "publisher": "Supergiant Games",
-    "releaseDate": "2020-09-17",
+    "releaseDate": "17-09-2020",
     "rating": 4.7,
     "platform": ["Windows", "Mac"],
     "reviews": [
@@ -302,7 +302,7 @@ const games = [
     "isFeatuedFranchise": true,
     "developer": "Motion Twin",
     "publisher": "Motion Twin",
-    "releaseDate": "2018-08-07",
+    "releaseDate": "07-08-2018",
     "rating": 4.5,
     "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
@@ -390,7 +390,7 @@ const games = [
     "isFeatuedFranchise": false,
     "developer": "The Game Kitchen",
     "publisher": "Team17",
-    "releaseDate": "2019-09-10",
+    "releaseDate": "10-09-2019",
     "rating": 3.9,
     "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
@@ -476,7 +476,7 @@ const games = [
     "isFeatuedFranchise": false,
     "developer": "FromSoftware",
     "publisher": "Bandai Namco Entertainment",
-    "releaseDate": "2022-02-25",
+    "releaseDate": "25-02-2022",
     "rating": 4.8,
     "platform": ["Windows"],
     "reviews": [
@@ -552,7 +552,7 @@ const games = [
     "price": null,
     "discount": null,
     "discountedPrice": null,
-    "platform": ["Windows", "Mac", "Linux"],
+    "tags": ["Action", "Metroidvania", "Platformer", "Indie"],
     "isWishlisted": false,
     "isAddedToCart": true,
     "wishlistCount": 1498273,
@@ -563,7 +563,7 @@ const games = [
     "publisher": "Team Cherry",
     "releaseDate": null,
     "rating": null,
-    "platform": ["PC", "Nintendo Switch"],
+    "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
       {
         "reviewerName": "HollowKnightFan",
@@ -637,7 +637,7 @@ const games = [
     "isFeatuedFranchise": false,
     "developer": "Playdead",
     "publisher": "Playdead",
-    "releaseDate": "2016-06-29",
+    "releaseDate": "29-06-2016",
     "rating": 4.1,
     "platform": ["Windows", "Mac"],
     "reviews": [
@@ -718,7 +718,7 @@ const games = [
     "isFeatuedFranchise": true,
     "developer": "Contingent99",
     "publisher": "Humble Games",
-    "releaseDate": "2018-05-15",
+    "releaseDate": "15-05-2018",
     "rating": 3.7,
     "platform": ["Windows", "Mac", "Linux"],
     "reviews": [
@@ -794,7 +794,7 @@ const games = [
     "isFeatuedFranchise": false,
     "developer": "Blue Mammoth Games",
     "publisher": "Ubisoft",
-    "releaseDate": "2017-10-17",
+    "releaseDate": "17-10-2017",
     "rating": 4.5,
     "platform": ["Windows", "Mac"],
     "reviews": [

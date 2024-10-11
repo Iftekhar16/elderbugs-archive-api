@@ -29,7 +29,7 @@ const games = [
       }
     ],
     "price": 29.99,
-    "discount": 0.2,
+    "discount": 20,
     "discountedPrice": 23.99,
     "tags": ["Survival", "City Builder", "Strategy"],
     "isWishlisted": true,
@@ -291,7 +291,7 @@ const games = [
       }
     ],
     "price": 24.99,
-    "discount": 0.2,
+    "discount": 20,
     "discountedPrice": 19.99,
     "tags": ["Rogue-lite", "Metroidvania", "Action"],
     "isWishlisted": false,
@@ -379,7 +379,7 @@ const games = [
       }
     ],
     "price": 24.99,
-    "discount": 0.25,
+    "discount": 25,
     "discountedPrice": 18.74,
     "tags": ["Action", "Platformer", "Souls-like"],
     "isWishlisted": false,
@@ -707,7 +707,7 @@ const games = [
       }
     ],
     "price": 15.99,
-    "discount": 0.3,
+    "discount": 30,
     "discountedPrice": 11.19,
     "tags": ["Action", "Indie", "RPG"],
     "isWishlisted": false,

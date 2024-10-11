@@ -2,7 +2,7 @@ const games = [
   {
     "id": "1",
     "name": "Frostpunk",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Frostpunk is a city-building survival game set in a frozen, post-apocalyptic world. Players take on the role of a leader, tasked with building and managing the last city on Earth, balancing resource management with the complex moral decisions needed to keep the society alive."
@@ -82,18 +82,7 @@ const games = [
   {
     "id": "2",
     "name": "Hollow Knight",
-    "description": "An epic action-adventure through a vast, ruined kingdom of insects and heroes.",
-    "price": 14.99,
-    "discount": 0,
-    "discountedPrice": 14.99,
-    "tags": ["Metroidvania", "Indie", "Action"],
-    "isWishlisted": true,
-    "isAddedToCart": true,
-    "wishlistCount": 1234876,
-    "isFeatured": true,
-    "isTrending": true,
-    "isFeatuedFranchise": true,
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Hollow Knight is a beautifully hand-drawn action-adventure game set in the ruined kingdom of Hallownest. Players control a mysterious knight on a journey through interconnected areas filled with challenging enemies, secrets, and epic boss battles."
@@ -123,6 +112,17 @@ const games = [
         "content": "The story of Hollow Knight unfolds gradually as players uncover fragments of Hallownest's tragic past. The narrative is often cryptic, leaving players to piece together details about the kingdom's fall and the knight's role within it."
       }
     ],
+    "price": 14.99,
+    "discount": 0,
+    "discountedPrice": 14.99,
+    "tags": ["Metroidvania", "Indie", "Action"],
+    "isWishlisted": true,
+    "isAddedToCart": true,
+    "wishlistCount": 1234876,
+    "isFeatured": true,
+    "isTrending": true,
+    "isFeatuedFranchise": true,
+    "developer": "Team Cherry",
     "publisher": "Team Cherry",
     "releaseDate": "24-02-2017",
     "rating": 4.7,
@@ -171,7 +171,7 @@ const games = [
   {
     "id": "3",
     "name": "Hades",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Hades is a fast-paced rogue-like dungeon crawler developed by Supergiant Games. Set in the underworld of Greek mythology, players take on the role of Zagreus, the son of Hades, as he attempts to escape from the realm of the dead."
@@ -260,7 +260,7 @@ const games = [
   {
     "id": "4",
     "name": "Dead Cells",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Dead Cells is a rogue-lite, Metroidvania-inspired action-platformer where players explore a sprawling, interconnected world filled with procedurally generated levels. The game emphasizes challenging combat, non-linear exploration, and permanent progression."
@@ -344,7 +344,7 @@ const games = [
   {
     "id": "5",
     "name": "Blasphemous",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Blasphemous is a dark, brutal action-platformer developed by The Game Kitchen. Set in a nightmarish world inspired by religious iconography and Spanish folklore, players take on the role of The Penitent One, a silent warrior on a quest for redemption in a land plagued by sin and divine punishment."
@@ -422,7 +422,6 @@ const games = [
     ],
     "images": {
       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/logo.png",
-
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-portrait.jpg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-square.jpg",
@@ -438,7 +437,7 @@ const games = [
   {
     "id": "6",
     "name": "Elden Ring",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Elden Ring, developed by FromSoftware and George R.R. Martin, is an action-RPG set in a vast open world. Players explore the Lands Between, a realm filled with treacherous enemies, mysterious lore, and rich environmental storytelling. Elden Ring combines challenging combat with an open-world format, offering a deeply immersive experience."
@@ -523,7 +522,7 @@ const games = [
   {
     "id": "7",
     "name": "Silksong",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Silksong, the sequel to Hollow Knight, follows the journey of Hornet, the princess-protector of Hallownest, as she ventures into a new kingdom. This action-packed Metroidvania game retains the core elements of exploration, platforming, and combat, while introducing new mechanics, enemies, and environments."
@@ -603,7 +602,7 @@ const games = [
   {
     "id": "8",
     "name": "Inside",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Inside is a dark, atmospheric puzzle-platformer from the creators of Limbo. Set in a dystopian world, players control a boy as he navigates a series of environments filled with puzzles, traps, and oppressive surveillance. The game is known for its haunting atmosphere, minimalist storytelling, and unsettling themes."
@@ -684,7 +683,7 @@ const games = [
   {
     "id": "9",
     "name": "Wizard of Legend",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Wizard of Legend is a high-paced roguelike action game that puts players in the role of a wizard, battling through procedurally generated dungeons. Players customize their spell sets to master a wide variety of magical abilities and face powerful bosses."
@@ -760,7 +759,7 @@ const games = [
   {
     "id": "10",
     "name": "Brawlhalla",
-    "description": [
+    "descriptions": [
       {
         "title": "Overview",
         "content": "Brawlhalla is a free-to-play platform fighter that features a diverse cast of characters known as Legends. Players battle across various arenas, using a combination of light, heavy, and weapon-based attacks. The game draws inspiration from classic platform fighters while introducing unique mechanics and an ever-expanding roster."
@@ -841,826 +840,3 @@ const games = [
 ];
 
 export default games;
-
-
-
-// const games = [
-//   {
-//     "id": "1",
-//     "name": "Frostpunk",
-//     "description": "A city-building survival game set in a frozen world.",
-//     "price": 29.99,
-//     "discount": 0.2,
-//     "discountedPrice": 23.99,
-//     "tags": ["Survival", "City Builder", "Strategy"],
-//     "isWishlisted": true,
-//     "developer": "11 bit studios",
-//     "publisher": "11 bit studios",
-//     "releaseDate": "2018-04-24",
-//     "rating": 9.0,
-//     "platform": ["Windows", "Mac"],
-//     "reviews": [
-//       {
-//         "reviewerName": "FrozenGamer",
-//         "reviewDescription": "Challenging and immersive. A unique take on city-building with tough moral choices.",
-//         "reviewRating": 9.5
-//       },
-//       {
-//         "reviewerName": "StrategyMaster",
-//         "reviewDescription": "Atmospheric and tense. Every decision feels impactful.",
-//         "reviewRating": 9.0
-//       },
-//       {
-//         "reviewerName": "SurvivalEnthusiast",
-//         "reviewDescription": "Brutally difficult but incredibly rewarding. The art style is hauntingly beautiful.",
-//         "reviewRating": 8.5
-//       },
-//       {
-//         "reviewerName": "CityPlannerPro",
-//         "reviewDescription": "A fresh take on the genre. The moral dilemmas add depth to the gameplay.",
-//         "reviewRating": 9.2
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-square.jpg",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "2",
-//     "name": "Hollow Knight",
-//     "description": "An epic action-adventure through a vast, ruined kingdom of insects and heroes.",
-//     "price": 14.99,
-//     "discount": 0,
-//     "discountedPrice": 14.99,
-//     "tags": ["Metroidvania", "Indie", "Action"],
-//     "isWishlisted": true,
-//     "developer": "Team Cherry",
-//     "publisher": "Team Cherry",
-//     "releaseDate": "2017-02-24",
-//     "rating": 9.5,
-//     "platform": ["Windows", "Mac", "Linux"],
-//     "reviews": [
-//       {
-//         "reviewerName": "MetroidFan",
-//         "reviewDescription": "A masterpiece of the Metroidvania genre. The art style and music are phenomenal.",
-//         "reviewRating": 10.0
-//       },
-//       {
-//         "reviewerName": "IndieGameLover",
-//         "reviewDescription": "Challenging combat and intricate level design. A must-play for any platformer fan.",
-//         "reviewRating": 9.5
-//       },
-//       {
-//         "reviewerName": "BugHunter",
-//         "reviewDescription": "The world-building and lore are incredibly deep. I got lost in Hallownest for hours.",
-//         "reviewRating": 9.0
-//       },
-//       {
-//         "reviewerName": "PlatformerPro",
-//         "reviewDescription": "Tight controls and satisfying progression. The boss fights are epic.",
-//         "reviewRating": 9.8
-//       },
-//       {
-//         "reviewerName": "ArtisticGamer",
-//         "reviewDescription": "The hand-drawn art and atmospheric soundtrack create an unforgettable experience.",
-//         "reviewRating": 9.7
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-landscape.png",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "3",
-//     "name": "Hades",
-//     "description": "A rogue-like dungeon crawler where you battle out of the Underworld.",
-//     "price": 24.99,
-//     "discount": 0,
-//     "discountedPrice": 24.99,
-//     "tags": ["Rogue-like", "Action", "Indie"],
-//     "isWishlisted": true,
-//     "developer": "Supergiant Games",
-//     "publisher": "Supergiant Games",
-//     "releaseDate": "2020-09-17",
-//     "rating": 9.7,
-//     "platform": ["Windows", "Mac"],
-//     "reviews": [
-//       {
-//         "reviewerName": "RogueExpert",
-//         "reviewDescription": "Incredible replay value. Each run feels fresh and exciting.",
-//         "reviewRating": 9.8
-//       },
-//       {
-//         "reviewerName": "MythologyBuff",
-//         "reviewDescription": "The way Greek mythology is woven into the story is brilliant.",
-//         "reviewRating": 9.5
-//       },
-//       {
-//         "reviewerName": "ActionGamer",
-//         "reviewDescription": "Fast-paced combat that never gets old. The weapon variety is fantastic.",
-//         "reviewRating": 9.7
-//       },
-//       {
-//         "reviewerName": "NarrativeJunkie",
-//         "reviewDescription": "The character interactions and story progression are top-notch.",
-//         "reviewRating": 10.0
-//       },
-//       {
-//         "reviewerName": "ArtEnthusiast",
-//         "reviewDescription": "Stunning visuals and an amazing soundtrack. A feast for the senses.",
-//         "reviewRating": 9.6
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-landscape.png",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-square.jpg",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "4",
-//     "name": "Dead Cells",
-//     "description": "A rogue-lite, metroidvania action-platformer with fast-paced combat.",
-//     "price": 24.99,
-//     "discount": 0.2,
-//     "discountedPrice": 19.99,
-//     "tags": ["Rogue-lite", "Metroidvania", "Action"],
-//     "isWishlisted": false,
-//     "developer": "Motion Twin",
-//     "publisher": "Motion Twin",
-//     "releaseDate": "2018-08-07",
-//     "rating": 9.0,
-//     "platform": ["Windows", "Mac", "Linux"],
-//     "reviews": [
-//       {
-//         "reviewerName": "SpeedRunner",
-//         "reviewDescription": "Fluid combat and movement. Perfect for speedrunning.",
-//         "reviewRating": 9.5
-//       },
-//       {
-//         "reviewerName": "PixelArtLover",
-//         "reviewDescription": "Gorgeous pixel art and smooth animations. A visual treat.",
-//         "reviewRating": 9.0
-//       },
-//       {
-//         "reviewerName": "HardcoreGamer",
-//         "reviewDescription": "Challenging but fair. The progression system keeps you coming back.",
-//         "reviewRating": 8.8
-//       },
-//       {
-//         "reviewerName": "IndieSupporter",
-//         "reviewDescription": "A shining example of indie game development. Constant updates add value.",
-//         "reviewRating": 9.2
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-portrait.png",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-square.jpg",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "5",
-//     "name": "Blasphemous",
-//     "description": "A brutal action-platformer with skilled combat and a deep narrative.",
-//     "price": 24.99,
-//     "discount": 0.25,
-//     "discountedPrice": 18.74,
-//     "tags": ["Action", "Platformer", "Souls-like"],
-//     "isWishlisted": false,
-//     "developer": "The Game Kitchen",
-//     "publisher": "Team17",
-//     "releaseDate": "2019-09-10",
-//     "rating": 8.8,
-//     "platform": ["Windows", "Mac", "Linux"],
-//     "reviews": [
-//       {
-//         "reviewerName": "DarkSoulsVeteran",
-//         "reviewDescription": "Challenging combat with a unique, dark atmosphere. A true test of skill.",
-//         "reviewRating": 9.0
-//       },
-//       {
-//         "reviewerName": "ArtHistorian",
-//         "reviewDescription": "The religious imagery and art style are hauntingly beautiful.",
-//         "reviewRating": 8.5
-//       },
-//       {
-//         "reviewerName": "HardcorePlatformer",
-//         "reviewDescription": "Precise platforming mixed with brutal combat. Not for the faint of heart.",
-//         "reviewRating": 8.7
-//       },
-//       {
-//         "reviewerName": "LoreHunter",
-//         "reviewDescription": "Deep, cryptic lore that rewards exploration and attention to detail.",
-//         "reviewRating": 9.2
-//       },
-//       {
-//         "reviewerName": "RetroGamer",
-//         "reviewDescription": "A modern game with old-school difficulty. Prepare to die... a lot.",
-//         "reviewRating": 8.8
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/logo.png",
-
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-square.jpg",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "6",
-//     "name": "Elden Ring",
-//     "description": "An open-world action RPG developed by FromSoftware.",
-//     "price": 59.99,
-//     "discount": 0,
-//     "discountedPrice": 59.99,
-//     "tags": ["Action", "RPG", "Open World"],
-//     "isWishlisted": true,
-//     "developer": "FromSoftware",
-//     "publisher": "Bandai Namco Entertainment",
-//     "releaseDate": "2022-02-25",
-//     "rating": 9.7,
-//     "platform": ["Windows"],
-//     "reviews": [
-//       {
-//         "reviewerName": "SoulsVeteran",
-//         "reviewDescription": "A masterpiece that expands on the Souls formula. The open world is breathtaking.",
-//         "reviewRating": 10.0
-//       },
-//       {
-//         "reviewerName": "RPGEnthusiast",
-//         "reviewDescription": "Incredible depth in character customization and playstyles.",
-//         "reviewRating": 9.8
-//       },
-//       {
-//         "reviewerName": "LoreMaster",
-//         "reviewDescription": "The world-building and lore are incredibly rich. Every area tells a story.",
-//         "reviewRating": 9.5
-//       },
-//       {
-//         "reviewerName": "ChallengeSeeker",
-//         "reviewDescription": "Tough but fair combat. Boss fights are epic and memorable.",
-//         "reviewRating": 9.7
-//       },
-//       {
-//         "reviewerName": "OpenWorldExplorer",
-//         "reviewDescription": "The freedom to explore is unparalleled. Always something new to discover.",
-//         "reviewRating": 9.9
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-portrait.png",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "7",
-//     "name": "Silksong",
-//     "description": "The highly anticipated sequel to Hollow Knight, where you explore a vast new kingdom.",
-//     "price": null,
-//     "discount": null,
-//     "discountedPrice": null,
-//     "platform": ["Windows", "Mac", "Linux"],
-//     "isWishlisted": true,
-//     "developer": "Team Cherry",
-//     "publisher": "Team Cherry",
-//     "releaseDate": null,
-//     "rating": null,
-//     "platform": ["PC", "Nintendo Switch"],
-//     "reviews": [
-//       {
-//         "reviewerName": "HollowKnightFan",
-//         "reviewDescription": "Can't wait for this! The demo at E3 looked amazing.",
-//         "reviewRating": null
-//       },
-//       {
-//         "reviewerName": "MetroidvaniaLover",
-//         "reviewDescription": "If it's anything like the first game, it'll be a masterpiece.",
-//         "reviewRating": null
-//       },
-//       {
-//         "reviewerName": "IndieGameWatcher",
-//         "reviewDescription": "Team Cherry's attention to detail is second to none. This will be worth the wait.",
-//         "reviewRating": null
-//       },
-//       {
-//         "reviewerName": "PlatformingPro",
-//         "reviewDescription": "The new moves shown in the trailer look like they'll add even more depth to the gameplay.",
-//         "reviewRating": null
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-landscape.png",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-portrait.jpeg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "8",
-//     "name": "Inside",
-//     "description": "A dark, narrative-driven platformer from the creators of Limbo.",
-//     "price": 19.99,
-//     "discount": 0,
-//     "discountedPrice": 19.99,
-//     "tags": ["Puzzle", "Platformer", "Indie"],
-//     "isWishlisted": false,
-//     "developer": "Playdead",
-//     "publisher": "Playdead",
-//     "releaseDate": "2016-06-29",
-//     "rating": 9.2,
-//     "platform": ["Windows", "Mac"],
-//     "reviews": [
-//       {
-//         "reviewerName": "AtmosphereJunkie",
-//         "reviewDescription": "Hauntingly beautiful. The atmosphere is unparalleled.",
-//         "reviewRating": 9.5
-//       },
-//       {
-//         "reviewerName": "PuzzleMaster",
-//         "reviewDescription": "Clever puzzles that are satisfying to solve. Great pacing.",
-//         "reviewRating": 9.0
-//       },
-//       {
-//         "reviewerName": "StorytellingFan",
-//         "reviewDescription": "The narrative, told without words, is captivating and thought-provoking.",
-//         "reviewRating": 9.3
-//       },
-//       {
-//         "reviewerName": "ArtisticGamer",
-//         "reviewDescription": "The visual style and animations are top-notch. A true work of art.",
-//         "reviewRating": 9.7
-//       },
-//       {
-//         "reviewerName": "CasualGamer",
-//         "reviewDescription": "Short but impactful. Left me thinking about it long after I finished.",
-//         "reviewRating": 8.8
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-portrait.jpeg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "9",
-//     "name": "Wizard of Legend",
-//     "description": "A fast-paced dungeon crawler with an emphasis on dynamic magic combat.",
-//     "price": 15.99,
-//     "discount": 0.3,
-//     "discountedPrice": 11.19,
-//     "tags": ["Action", "Indie", "RPG"],
-//     "isWishlisted": false,
-//     "developer": "Contingent99",
-//     "publisher": "Humble Games",
-//     "releaseDate": "2018-05-15",
-//     "rating": 8.5,
-//     "platform": ["Windows", "Mac", "Linux"],
-//     "reviews": [
-//       {
-//         "reviewerName": "SpellcasterSupreme",
-//         "reviewDescription": "The spell combinations are endless. Great for multiple playthroughs.",
-//         "reviewRating": 8.7
-//       },
-//       {
-//         "reviewerName": "CoopGamer",
-//         "reviewDescription": "Fun solo, but really shines in co-op mode. Great with friends.",
-//         "reviewRating": 8.5
-//       },
-//       {
-//         "reviewerName": "PixelArtEnthusiast",
-//         "reviewDescription": "Beautiful pixel art and fluid animations. Visually appealing.",
-//         "reviewRating": 8.8
-//       },
-//       {
-//         "reviewerName": "CasualMage",
-//         "reviewDescription": "Easy to pick up, hard to master. Addictive gameplay loop.",
-//         "reviewRating": 8.3
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-portrait.png",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "10",
-//     "name": "Brawlhalla",
-//     "description": "Brawlhalla is a free 2D platform fighting game with full cross-play between PC, PS4, Xbox One, Nintendo Switch, iOS and Android. Join casual free-for-alls, queue for ranked matches, or make a custom room with your friends. Millions of players, frequent updates, and more than 50 unique characters.",
-//     "price": 0,
-//     "discount": 0,
-//     "discountedPrice": 0,
-//     "tags": ["Free to Play", "Fighting", "Multiplayer", "2D Fighter"],
-//     "isWishlisted": false,
-//     "developer": "Blue Mammoth Games",
-//     "publisher": "Ubisoft",
-//     "releaseDate": "2017-10-17",
-//     "rating": 9,
-//     "platform": ["Windows", "Mac"],
-//     "reviews": [
-//       {
-//         "reviewerName": "FightingGamePro",
-//         "reviewDescription": "Accessible yet deep. Great for both casual and competitive players.",
-//         "reviewRating": 9.2
-//       },
-//       {
-//         "reviewerName": "CrossplayFan",
-//         "reviewDescription": "Cross-platform play is seamless. Can play with friends on any device.",
-//         "reviewRating": 9.0
-//       },
-//       {
-//         "reviewerName": "F2PGamer",
-//         "reviewDescription": "One of the best free-to-play models. No pay-to-win elements.",
-//         "reviewRating": 9.5
-//       },
-//       {
-//         "reviewerName": "CasualBrawler",
-//         "reviewDescription": "Easy to pick up and play. Great for quick gaming sessions.",
-//         "reviewRating": 8.8
-//       },
-//       {
-//         "reviewerName": "CharacterCollector",
-//         "reviewDescription": "Huge roster of unique characters. Always something new to master.",
-//         "reviewRating": 9.3
-//       }
-//     ],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(5).jpeg"
-//       }
-//     }
-//   }
-// ];
-
-// export default games;
-
-// const games = [
-//   {
-//     "id": "1",
-//     "name": "Frostpunk",
-//     "description": "A city-building survival game set in a frozen world.",
-//     "price": 29.99,
-//     "discount": 0.2,
-//     "discountedPrice": 23.99,
-//     "tags": ["Survival", "City Builder", "Strategy"],
-//     "isWishlisted": true,
-//     "developer": "11 bit studios",
-//     "publisher": "11 bit studios",
-//     "releaseDate": "2018-04-24",
-//     "rating": 9.0,
-//     "platform": ["PC", "PlayStation 4", "Xbox One"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-square.jpg",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "2",
-//     "name": "Hollow Knight",
-//     "description": "An epic action-adventure through a vast, ruined kingdom of insects and heroes.",
-//     "price": 14.99,
-//     "discount": 0,
-//     "discountedPrice": 14.99,
-//     "tags": ["Metroidvania", "Indie", "Action"],
-//     "isWishlisted": true,
-//     "developer": "Team Cherry",
-//     "publisher": "Team Cherry",
-//     "releaseDate": "2017-02-24",
-//     "rating": 9.5,
-//     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-landscape.png",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "3",
-//     "name": "Hades",
-//     "description": "A rogue-like dungeon crawler where you battle out of the Underworld.",
-//     "price": 24.99,
-//     "discount": 0,
-//     "discountedPrice": 24.99,
-//     "tags": ["Rogue-like", "Action", "Indie"],
-//     "isWishlisted": true,
-//     "developer": "Supergiant Games",
-//     "publisher": "Supergiant Games",
-//     "releaseDate": "2020-09-17",
-//     "rating": 9.7,
-//     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "PlayStation 5", "Xbox One"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-landscape.png",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-square.jpg",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "4",
-//     "name": "Dead Cells",
-//     "description": "A rogue-lite, metroidvania action-platformer with fast-paced combat.",
-//     "price": 24.99,
-//     "discount": 0.2,
-//     "discountedPrice": 19.99,
-//     "tags": ["Rogue-lite", "Metroidvania", "Action"],
-//     "isWishlisted": false,
-//     "developer": "Motion Twin",
-//     "publisher": "Motion Twin",
-//     "releaseDate": "2018-08-07",
-//     "rating": 9.0,
-//     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-portrait.png",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-square.jpg",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "5",
-//     "name": "Blasphemous",
-//     "description": "A brutal action-platformer with skilled combat and a deep narrative.",
-//     "price": 24.99,
-//     "discount": 0.25,
-//     "discountedPrice": 18.74,
-//     "tags": ["Action", "Platformer", "Souls-like"],
-//     "isWishlisted": false,
-//     "developer": "The Game Kitchen",
-//     "publisher": "Team17",
-//     "releaseDate": "2019-09-10",
-//     "rating": 8.8,
-//     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-square.jpg",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "6",
-//     "name": "Elden Ring",
-//     "description": "An open-world action RPG developed by FromSoftware.",
-//     "price": 59.99,
-//     "discount": 0,
-//     "discountedPrice": 59.99,
-//     "tags": ["Action", "RPG", "Open World"],
-//     "isWishlisted": true,
-//     "developer": "FromSoftware",
-//     "publisher": "Bandai Namco Entertainment",
-//     "releaseDate": "2022-02-25",
-//     "rating": 9.7,
-//     "platform": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-portrait.png",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "7",
-//     "name": "Silksong",
-//     "description": "The highly anticipated sequel to Hollow Knight, where you explore a vast new kingdom.",
-//     "price": null,
-//     "discount": null,
-//     "discountedPrice": null,
-//     "tags": ["Action", "Platformer", "Metroidvania"],
-//     "isWishlisted": true,
-//     "developer": "Team Cherry",
-//     "publisher": "Team Cherry",
-//     "releaseDate": null,
-//     "rating": null,
-//     "platform": ["PC", "Nintendo Switch"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-landscape.png",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-portrait.jpeg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "8",
-//     "name": "Inside",
-//     "description": "A dark, narrative-driven platformer from the creators of Limbo.",
-//     "price": 19.99,
-//     "discount": 0,
-//     "discountedPrice": 19.99,
-//     "tags": ["Puzzle", "Platformer", "Indie"],
-//     "isWishlisted": false,
-//     "developer": "Playdead",
-//     "publisher": "Playdead",
-//     "releaseDate": "2016-06-29",
-//     "rating": 9.2,
-//     "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-portrait.jpeg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "9",
-//     "name": "Wizard of Legend",
-//     "description": "A fast-paced dungeon crawler with an emphasis on dynamic magic combat.",
-//     "price": 15.99,
-//     "discount": 0.3,
-//     "discountedPrice": 11.19,
-//     "tags": ["Action", "Indie", "RPG"],
-//     "isWishlisted": false,
-//     "developer": "Contingent99",
-//     "publisher": "Humble Games",
-//     "releaseDate": "2018-05-15",
-//     "rating": 8.5,
-//     "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-portrait.png",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(5).jpeg"
-//       }
-//     }
-//   },
-//   {
-//     "id": "10",
-//     "name": "Brawlhalla",
-//     "description": "Brawlhalla is a free 2D platform fighting game with full cross-play between PC, PS4, Xbox One, Nintendo Switch, iOS and Android. Join casual free-for-alls, queue for ranked matches, or make a custom room with your friends. Millions of players, frequent updates, and more than 50 unique characters.",
-//     "price": 0,
-//     "discount": 0,
-//     "discountedPrice": 0,
-//     "tags": ["Free to Play", "Fighting", "Multiplayer", "2D Fighter"],
-//     "isWishlisted": false,
-//     "developer": "Blue Mammoth Games",
-//     "publisher": "Ubisoft",
-//     "releaseDate": "2017-10-17",
-//     "rating": 9,
-//     "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android"],
-//     "images": {
-//       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/logo.png",
-//       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-landscape.jpg",
-//       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-portrait.jpg",
-//       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-square.png",
-//       "screenshot": {
-//         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(1).jpeg",
-//         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(2).jpeg",
-//         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(3).jpeg",
-//         "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(4).jpeg",
-//         "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(5).jpeg"
-//       }
-//     }
-//   }
-// ];
-
-// export default games;

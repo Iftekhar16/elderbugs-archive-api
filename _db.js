@@ -247,7 +247,7 @@ const games = [
       "logo": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/logo.png",
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-landscape.png",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-portrait.jpg",
-      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-square.jpg",
+      "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-square.png",
       "screenshot": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(2).jpeg",

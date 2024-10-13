@@ -30,7 +30,7 @@ export const typeDefs = `#graphql
   type review {
     reviewerName: String!
     reviewDescription: String!
-    reviewRating: Float!
+    reviewRating: Float
   }
 
   type images {

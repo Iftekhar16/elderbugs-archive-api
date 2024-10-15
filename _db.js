@@ -70,7 +70,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-portrait.jpg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/banner-square.jpg",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/frostpunk/screenshot%20(3).jpeg",
@@ -159,7 +159,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-landscape.png",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-portrait.jpg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/banner-square.png",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hollow-knight/screenshot%20(3).jpeg",
@@ -248,7 +248,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-landscape.png",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-portrait.jpg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/banner-square.png",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/hades/screenshot%20(3).jpeg",
@@ -332,7 +332,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-portrait.png",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/banner-square.jpg",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/dead-cells/screenshot%20(3).jpeg",
@@ -425,7 +425,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-portrait.jpg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/banner-square.jpg",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/blasphemous/screenshot%20(3).jpeg",
@@ -510,7 +510,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-portrait.png",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/banner-square.png",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/elden-ring/screenshot%20(3).jpeg",
@@ -590,7 +590,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-landscape.png",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-portrait.jpeg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-square.png",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(3).jpeg",
@@ -671,7 +671,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-portrait.jpeg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/banner-square.png",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/inside/screenshot%20(3).jpeg",
@@ -747,7 +747,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-portrait.png",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/banner-square.png",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/wizard-of-legend/screenshot%20(3).jpeg",
@@ -828,7 +828,7 @@ const games = [
       "bannerLandscape": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-landscape.jpg",
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-portrait.jpg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/banner-square.png",
-      "screenshot": {
+      "screenshots": {
         "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(1).jpeg",
         "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(2).jpeg",
         "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/brawlhalla/screenshot%20(3).jpeg",

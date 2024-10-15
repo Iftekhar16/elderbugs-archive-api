@@ -13,6 +13,9 @@ const resolvers = {
   Query: {
     games(){
       return db
+    },
+    game(_, args){
+      return db.find((game)=>game.id===args.id)
     }
   }
 }

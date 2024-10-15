@@ -38,14 +38,15 @@ export const typeDefs = `#graphql
     bannerLandscape: String
     bannerPortrait: String
     bannerSquare: String
-    screenshots: {
-      screenshot1: String
-      screenshot2: String
-      screenshot3: String
-      screenshot4: String
-      screenshot5: String
-      
-    }
+    screenshots: screenshots
+  }
+
+  type screenshots {
+    screenshot1: String
+    screenshot2: String
+    screenshot3: String
+    screenshot4: String
+    screenshot5: String
   }
 
   type Query{

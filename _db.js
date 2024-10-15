@@ -591,11 +591,11 @@ const games = [
       "bannerPortrait": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-portrait.jpeg",
       "bannerSquare": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/banner-square.png",
       "screenshots": {
-        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(1).jpeg",
-        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(2).jpeg",
-        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(3).jpeg",
-        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(4).jpeg",
-        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(5).jpeg"
+        "screenshot1": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(1).jpg",
+        "screenshot2": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(2).jpg",
+        "screenshot3": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(3).jpg",
+        "screenshot4": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(4).jpg",
+        "screenshot5": "https://raw.githubusercontent.com/Iftekhar16/elderbugs-archive/refs/heads/main/public/images/silksong/screenshot%20(5).jpg"
       }
     }
   },

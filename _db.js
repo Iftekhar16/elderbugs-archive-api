@@ -521,7 +521,7 @@ const games = [
   },
   {
     "id": "7",
-    "name": "Silksong",
+    "name": "Hollow Knight: Silksong",
     "descriptions": [
       {
         "title": "Overview",
